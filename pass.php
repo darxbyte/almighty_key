@@ -1,6 +1,1 @@
-<?php
-echo json_encode(array(
-    '$2y$10$abcde12345fghijklmnopqrstuvwxyz67890', // Hash password 1
-    '$2y$10$mnopqr12345stuvwxyzabcdefghijkl67890', // Hash password 2
-));
-?>
+$2a$12$9eNxGV26nTxVCpWyIw6TXeeMVWe.nQ8pj3uq84fZP2a0cfgc12/06
